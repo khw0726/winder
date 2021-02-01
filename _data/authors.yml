@@ -1,14 +1,15 @@
-- name: Tae Soo Kim
+- name: Hyunwoo Kim
   affiliation: KAIST
-  website: https://taesookim.com
-  img: taesoo.jpeg
-- name: Seungsu Kim
+  website: https://hyunwoo.me
+  img: hyunwoo.jpeg
+- name: Haesoo Kim
+  affiliation: Seoul National University
+  img: haesoo.png
+  website: https://haesookim.info
+- name: Kyung Je Jo
   affiliation: KAIST
-  img: seungsu.jpeg
-- name: Yoonseo Choi
-  affiliation: KAIST
-  website: https://yoonseochoi.com
-  img: yoonseo.png
+  website: https://kyungjejo.com
+  img: kyungje.jpg
 - name: Juho Kim
   affiliation: KAIST
   website: https://juhokim.com

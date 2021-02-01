@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Winder
+title: StarryThoughts
 theme: minima
-description: "Linking Speech and Visual Objects to Support Communication in Asynchronous Collaboration"
+description: "Facilitating Diverse Opinion Exploration on Social Issues"
 
-syslogo: /assets/img/winder_logo.svg
+syslogo: /assets/img/logo1_tight.png
 syscolor: "#7354f3"
 sysfont: Lato
 video: https://drive.google.com/file/d/1Y4-UP6VrjVat2m0-qhxUcFvSX6xzATVt/preview
