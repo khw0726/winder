@@ -25,7 +25,7 @@ description: "Facilitating Diverse Opinion Exploration on Social Issues"
 syslogo: /assets/img/logo1_tight.png
 syscolor: "#7354f3"
 sysfont: Lato
-video: https://drive.google.com/file/d/1Y4-UP6VrjVat2m0-qhxUcFvSX6xzATVt/preview
+# video: https://drive.google.com/file/d/1Y4-UP6VrjVat2m0-qhxUcFvSX6xzATVt/preview
 
 plugins:
   - jekyll-feed
